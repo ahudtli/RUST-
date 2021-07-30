@@ -26,7 +26,12 @@ impl Time for TrafficLight{
 fn get_sum(x:Vec<u32>)->Option<u32>{
     let mut result:u32 = 0;
     for i in &x{
-        result = result + i;
+        match result.checked_add(*i) {
+            None => {
+                println!("overflow!");}
+            _    => {
+                result = result + i;}
+        }
     }
         Some(result)
 }
