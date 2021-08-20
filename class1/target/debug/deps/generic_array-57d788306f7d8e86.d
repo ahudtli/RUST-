@@ -1,0 +1,13 @@
+/root/RUST_CLASS/homework/tmp/part5/target/debug/deps/generic_array-57d788306f7d8e86.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/hex.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/impls.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/arr.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/functional.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/iter.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/sequence.rs
+
+/root/RUST_CLASS/homework/tmp/part5/target/debug/deps/libgeneric_array-57d788306f7d8e86.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/hex.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/impls.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/arr.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/functional.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/iter.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/sequence.rs
+
+/root/RUST_CLASS/homework/tmp/part5/target/debug/deps/generic_array-57d788306f7d8e86.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/hex.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/impls.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/arr.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/functional.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/iter.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/sequence.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/hex.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/impls.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/arr.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/functional.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/iter.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/sequence.rs:
